@@ -30,12 +30,16 @@ C:\Users\USERNAME\AppData\Roaming\Hytale\install\release\package
     └───build-4
 ````
 ## How to install and use
-Script and instructions for installation coming soon
+Please use the installer in the release page, otherwise you will have to compile everything yourself and set the folder structure up to mimic what's in the filetree
 
 ## How to build
 ```
-g++ fakejava.cpp -o java.exe
+g++ fake-java.cpp -o fake-java.exe
 ```
+```
+g++ installer.cpp -o installer.exe
+```
+You can get the [exact build of OpenJDK 25.0.1-8 here](https://learn.microsoft.com/en-us/java/openjdk/download#:~:text=OpenJDK%2025%2E0%2E1%20LTS)
 
 ## Credits
 This is only possible thanks to the [ARM64 Windows Build of OpenJDK 25.0.1-8 by Microsoft](https://learn.microsoft.com/en-us/java/openjdk/)
