@@ -1,5 +1,9 @@
 # Running Hytale on Windows ARM Devices such as Snapdragon X Elite laptops
 ## You can download [a patch installer here](https://github.com/softblueish/Hytale-ARM-patch/releases/download/1.1/Installer-Windows-ARM64.zip)
+
+> If you're struggling with installing the game itself, I can recommend [this guide](https://hytalehub.com/threads/a-quick-and-easy-guide-on-installing-and-optimizing-hytale-for-windows-on-arm-computers-snapdragon-x-elite-surface-ect.12875/). This patch only works if you've already managed to install the game
+
+## Screenshot
 <img width="2879" height="1619" alt="Screenshot 2026-01-26 124622" src="https://github.com/user-attachments/assets/41a1d2c7-dd45-48d3-8c1c-cc86b3983746" />
 
 An image from one of my singleplayer tests using the [full control testing branch](https://github.com/softblueish/Hytale-ARM-patch/tree/main-full-control) of this patch (not for use outside development)
